@@ -1,3 +1,3 @@
-# SFDregistration
+# Survey for DH Society
 
-Code use for a simple web based registration form for Software Freedom Day.
+A survey form for the Estonian DH Society.
